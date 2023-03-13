@@ -1,5 +1,6 @@
+// Brandon Vergara Montenegro 
 
-//Calculadora con funciones
+// Calculadora con funciones
 
 
 var opt, a, b, c, y, x = true;
